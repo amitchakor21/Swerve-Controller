@@ -4,7 +4,7 @@ This is an Android app to control a PICT robocon 2019 robot(MR1)
 
 ## Screen
 
-![ScreenShot](./App screenshot.png)
+![ScreenShot](./AppScreenshot.png)
 
 ## Features
 
